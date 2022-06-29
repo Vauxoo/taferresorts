@@ -1,0 +1,4 @@
+[submodule "taferresorts"]
+	path = taferresorts
+	url = git@git.vauxoo.com:vauxoo/taferresorts.git
+	branch = 15.0

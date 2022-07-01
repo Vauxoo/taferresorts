@@ -14,3 +14,7 @@
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
 	branch = 15.0
+[submodule "villagroup"]
+	path = villagroup
+	url = git@git.vauxoo.com:vauxoo/villagroup.git
+	branch = 15.0

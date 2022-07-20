@@ -18,3 +18,8 @@
 	path = villagroup
 	url = git@git.vauxoo.com:vauxoo/villagroup.git
 	branch = 15.0
+
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 15.0
